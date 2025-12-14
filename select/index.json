@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "おもちゃの兵隊",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-14T06:29:02.635390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おもちゃの兵隊",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_おもちゃの兵隊_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おもちゃの兵隊",
+      "artist": "DOLL$BOXX",
+      "has_synced": true,
+      "path": "select/02_おもちゃの兵隊_DOLL$BOXX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おもちゃの兵隊",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_おもちゃの兵隊_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
